@@ -54,7 +54,7 @@ Our findings suggest that while emotion-mirroring supports self-reflection, touc
 
 ---
 ## Teaser Video
-[![BabyDuck & HongDuck Demo](https://img.youtube.com/vi/oGvtfC-JGac/0.jpg)]([https://www.youtube.com/watch?v=유튜브_영상_ID](https://youtu.be/oGvtfC-JGac))
+[![BabyDuck & HongDuck Demo](https://img.youtube.com/vi/oGvtfC-JGac/0.jpg)](https://youtu.be/oGvtfC-JGac)
 
 ---
 
