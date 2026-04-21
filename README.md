@@ -55,5 +55,5 @@ Our findings suggest that while emotion-mirroring supports self-reflection, touc
 ---
 
 ## 🏷️ Related Keywords
-`HCI` `Social Robotics` `Emotional Support` `Edge AI` `Multimodal Interaction` `Role-reversal Paradigm` `Embodied HCI`
+`HCI` `Social Robot` `Emotional Support` `Multimodal Interaction` `Role-reversal Paradigm` `Embodied HCI`
 
