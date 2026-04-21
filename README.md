@@ -53,7 +53,13 @@ Our findings suggest that while emotion-mirroring supports self-reflection, touc
 </p>
 
 ---
+## Teaser Video
+[![BabyDuck & HongDuck Demo](https://img.youtube.com/vi/oGvtfC-JGac/0.jpg)]([https://www.youtube.com/watch?v=유튜브_영상_ID](https://youtu.be/oGvtfC-JGac))
+
+---
 
 ## 🏷️ Related Keywords
 `HCI` `Social Robot` `Emotional Support` `Multimodal Interaction` `Role-reversal Paradigm` `Embodied HCI`
+
+
 
