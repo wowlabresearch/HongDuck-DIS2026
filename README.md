@@ -1,7 +1,7 @@
 # Comforting an Emotion-Mirroring Robot: Externalized Self-Soothing via Role-Reversal Touch Interaction
 Supplementary materials for HongDuck (ACM DIS 2026): additional figures for results and video.
 
-Jihoon Kim, Hyemin Kim, Donghyun Nam, Dokshin Lim, and Kyung Yun Choi. 2026. Comforting an Emotion-Mirroring Robot: Externalized Self-Soothing via Role-Reversal Touch Interaction. In Designing Interactive Systems Conference (DIS Companion ’26), June 13–17, 2026, Singapore, Singapore. ACM, New York, NY, USA, 5 pages. ![DOI](https://doi.org/10.1145/3802974.3809461)
+Jihoon Kim, Hyemin Kim, Donghyun Nam, Dokshin Lim, and Kyung Yun Choi. 2026. Comforting an Emotion-Mirroring Robot: Externalized Self-Soothing via Role-Reversal Touch Interaction. In Designing Interactive Systems Conference (DIS Companion ’26), June 13–17, 2026, Singapore, Singapore. ACM, New York, NY, USA, 5 pages. ![https://doi.org/10.1145/3802974.3809461](https://doi.org/10.1145/3802974.3809461)
 
 
 ![HondDuck and BabyDuck](Figures/thumbnail-hongduck.png)
